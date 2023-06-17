@@ -1,0 +1,8 @@
+﻿  mp3.c
+C:\자료구조\연결리스트_시험\mp3.c(40,30): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\자료구조\연결리스트_시험\mp3.c(40,26): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\자료구조\연결리스트_시험\mp3.c(40,34): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\자료구조\연결리스트_시험\mp3.c(40,31): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\자료구조\연결리스트_시험\mp3.c(75,2): warning C4013: 'printf_dlist'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+mp3.obj : error LNK2019: printf_dlistmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\자료구조\x64\Debug\연결리스트_시험.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
